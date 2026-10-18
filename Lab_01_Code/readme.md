@@ -1,1 +1,5 @@
-
+mysin.c: question 5 (page 4)
+mymain.c: question 8 (page 5)
+myfunct.o: question 9 (page 5)
+stdio.h: question 14 (page 6)
+capitalize.c: question 27 (page 8)
