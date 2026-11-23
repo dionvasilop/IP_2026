@@ -1,6 +1,7 @@
 Folder Contents
 
 <b>myprog.c</b> Περιέχει την συνάρτηση main που καλεί τις συναρτήσεις badf και goodf του myfun.c, Άσκηση 1.1, 1.2, 1.3 σελίδα 2<br>
+<b>myprog_ver2.c</b> Το myprog αλλά με υλοποίηση των sum και diff με pointer (int *, αντί για int). <br>
 <b>eratosthenis.c</b> Αλγόριθμος (κόσκινο του Ερατοσθένη), για την εύρεση των πρώτων αριθμών, Άσκηση 2, σελίδα 2<br>
 <b>pointers.c</b> Αριθμητική δεικτών, Άσκηση 3, σελίδες 2,3<br>
 <b>judgement.c</b> Άσκηση 4, σελίδες 3,4<br>
